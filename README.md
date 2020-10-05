@@ -1,3 +1,7 @@
+This code is associated with the paper from Ireland et al., "Deciphering the regulatory genome of
+Escherichia coli, one hundred promoters
+at a time". eLife, 2020. http://doi.org/10.7554/eLife.55308
+
 # RegSeq
 
 ## Overview
